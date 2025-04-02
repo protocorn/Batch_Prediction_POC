@@ -138,7 +138,3 @@ Key parameters can be adjusted in the `VideoTranscriptProcessor` class:
 3. Improved chunking algorithms
 4. Additional output formats
 5. API endpoint for web integration
-
-## License
-
-[Your License Here] 
