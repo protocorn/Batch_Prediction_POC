@@ -1,0 +1,11 @@
+Deep learning is a subset of machine learning that uses neural networks with multiple layers. These layers are called deep neural networks. The first layer processes the input data, and each subsequent layer builds upon the previous layer's output.
+
+Activation functions are crucial components that introduce non-linearity into the network. Common activation functions include ReLU, sigmoid, and tanh. The choice of activation function can significantly impact the network's performance and learning capabilities.
+
+Neural networks learn through a process called backpropagation. During training, the network makes predictions, calculates the error, and adjusts its weights to minimize this error. This process is repeated for many iterations until the network achieves satisfactory performance.
+
+The architecture of a neural network can vary widely. Some common architectures include convolutional neural networks (CNNs) for image processing, recurrent neural networks (RNNs) for sequential data, and transformers for natural language processing.
+
+Training deep learning models requires significant computational resources and large datasets. The models learn patterns and features from the data, which allows them to make predictions on new, unseen data. Regularization techniques like dropout and weight decay help prevent overfitting.
+
+Deep learning has revolutionized many fields, including computer vision, natural language processing, and speech recognition. The ability to learn hierarchical representations from data has made it possible to solve complex problems that were previously thought to be beyond the capabilities of machines. 
