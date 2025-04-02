@@ -20,7 +20,7 @@ A proof of concept for batch processing video transcripts with context-aware que
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/protocorn/Batch_Prediction_POC
 cd Batch_Prediction_POC
 ```
 
